@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "schema": "1.0"
+    },
+    "context": {
+        "token": "",
+        "args" : ""
+    },
+    "summary": {
+        "totalTests": 0,
+        "Passed": 0,
+        "Failed": 0,
+        "Errored": 0
+    },
+    "testCases": 
+    [
+
+    ],
+    "evaluation": {
+        "status": 0,
+        "message": ""
+    }
+}
